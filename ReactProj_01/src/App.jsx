@@ -1,8 +1,9 @@
+import { NavbarComp } from "./NavbarComp";
 
 function App() {
   return (
     <>
-      <h1>Hello World</h1>
+      <NavbarComp/>
     </>
   );
 }
