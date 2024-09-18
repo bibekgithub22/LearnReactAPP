@@ -17,7 +17,7 @@ export default function NavbarComp() {
             <li className="hover:text-slate-900 duration-200 cursor-pointer">
               About
             </li>
-            <li className="hover:text-slate-900 duration-200 cursor-pointer">
+            <li className="hover:text-slate-900 duration-200 cursor-pointer  ">
               Contact
             </li>
           </ul>
@@ -26,7 +26,7 @@ export default function NavbarComp() {
           <input
             type="search"
             placeholder="Search..."
-            className="rounded-2xl placeholder:italic pl-3 py-1 hidden md:block"
+            className="rounded-2xl placeholder:italic pl-3 py-1 shadow-md  hidden md:block"
           />
         </div>
 
