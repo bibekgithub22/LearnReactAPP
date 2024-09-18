@@ -1,0 +1,44 @@
+h1 {
+    color: whitesmoke;
+  }
+  body {
+    background: #000717;
+  }
+  #nav {
+    color: wheat;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background: rgba(0, 110, 189, 0.991);
+    height: auto;
+    position: relative;
+  }
+  .left {
+    width: 10%;
+  }
+  .mid{
+    /* background: #000; */
+    display: flex;
+    align-items: center;
+  
+  }
+  .mid ul {   
+    display: flex;
+    text-align: center;
+    list-style: none;
+    gap: 6rem;
+  }
+  .mid ul li {
+    cursor: pointer;
+  }
+  .right {
+    display: flex;
+  }
+  #search{
+    border-radius: 0.6rem;
+    background: rgba(151, 229, 255, 0.26) ;
+    padding: 0.4rem 0.5rem;
+  }
+  ::placeholder{
+    color: rgb(229, 229, 229);
+  }
