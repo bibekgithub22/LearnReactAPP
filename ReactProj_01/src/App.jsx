@@ -1,7 +1,9 @@
+import NavbarComp from "./NavbarComp";
+
 function App() {
   return (
     <>
-      <h1>Welcome to REACT</h1>
+     <NavbarComp/>
     </>
   );
 }
