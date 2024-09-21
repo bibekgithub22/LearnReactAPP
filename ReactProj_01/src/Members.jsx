@@ -11,7 +11,7 @@ export default function Members() {
         >
           <div className="absolute inset-0 bg-[url('./public/img/2.png')] bg-cover bg-center transition-transform duration-300 ease-in-out group-hover:scale-[0.95]" />
           <div className="relative h-full w-full flex items-end justify-center">
-            <h1 className="mb-[-3.5px] text-white text-xl font-bold absolute bottom-[-1.5vh] hover:text-blue-300 duration-100 hover:tracking-widest">
+            <h1 className="mb-[-3.5px] text-slate-300 text-xl font-bold absolute bottom-[-1.5vh] hover:text-blue-300 duration-100 hover:tracking-widest">
               PRANJIT
             </h1>
           </div>
@@ -23,7 +23,7 @@ export default function Members() {
         >
           <div className="absolute inset-0 bg-[url('./public/img/4.png')] bg-cover bg-center transition-transform duration-300 ease-in-out group-hover:scale-[0.95]" />
           <div className="relative h-full w-full flex items-end justify-center">
-            <h1 className="mb-[-3.5px] text-white text-xl font-bold absolute bottom-[-1.5vh] hover:text-blue-300 duration-100 hover:tracking-widest">
+            <h1 className="mb-[-3.5px] text-slate-300 text-xl font-bold absolute bottom-[-1.5vh] hover:text-blue-300 duration-100 hover:tracking-widest">
               EKTA
             </h1>
           </div>
@@ -35,7 +35,7 @@ export default function Members() {
         >
           <div className="absolute inset-0 bg-[url('./public/img/1.png')] bg-cover bg-center transition-transform duration-300 ease-in-out group-hover:scale-[0.95]" />
           <div className="relative h-full w-full flex items-end justify-center">
-            <h1 className="mb-[-3.5px] text-white text-xl font-bold absolute bottom-[-1.5vh] hover:text-blue-300 duration-100 hover:tracking-widest ">
+            <h1 className="mb-[-3.5px] text-slate-300 text-xl font-bold absolute bottom-[-1.5vh] hover:text-blue-300 duration-100 hover:tracking-widest ">
               RANJIT
             </h1>
           </div>
@@ -47,7 +47,7 @@ export default function Members() {
         >
           <div className="absolute inset-0 bg-[url('./public/img/5.png')] bg-cover bg-center transition-transform duration-300 ease-in-out group-hover:scale-[0.95]" />
           <div className="relative h-full w-full flex items-end justify-center">
-            <h1 className="mb-[-3.5px] text-white text-xl font-bold absolute bottom-[-1.5vh] hover:text-blue-300 duration-100 hover:tracking-widest ">
+            <h1 className="mb-[-3.5px] text-slate-300 text-xl font-bold absolute bottom-[-1.5vh] hover:text-blue-300 duration-100 hover:tracking-widest ">
               BARAKHA
             </h1>
           </div>
@@ -59,7 +59,7 @@ export default function Members() {
         >
           <div className="absolute inset-0 bg-[url('./public/img/3.png')] bg-cover bg-center transition-transform duration-300 ease-in-out group-hover:scale-[0.95]" />
           <div className="relative h-full w-full flex items-end justify-center">
-            <h1 className="mb-[-3.5px] text-white text-xl font-bold absolute bottom-[-1.5vh] hover:text-blue-300 duration-100 hover:tracking-widest ">
+            <h1 className="mb-[-3.5px] text-slate-300 text-xl font-bold absolute bottom-[-1.5vh] hover:text-blue-300 duration-100 hover:tracking-widest ">
               BIBEK
             </h1>
           </div>
@@ -71,7 +71,7 @@ export default function Members() {
         >
           <div className="absolute inset-0 bg-[url('./public/img/6.png')] bg-cover bg-center transition-transform duration-300 ease-in-out group-hover:scale-[0.95]" />
           <div className="relative h-full w-full flex items-end justify-center">
-            <h1 className="mb-[-3.5px] text-white text-xl font-bold absolute bottom-[-1.5vh] hover:text-blue-300 duration-100 hover:tracking-widest">
+            <h1 className="mb-[-3.5px] text-slate-300 text-xl font-bold absolute bottom-[-1.5vh] hover:text-blue-300 duration-100 hover:tracking-widest">
               MANJIT
             </h1>
           </div>
