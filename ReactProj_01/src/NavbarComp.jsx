@@ -4,7 +4,7 @@ import { GiHamburgerMenu } from "react-icons/gi";
 export default function NavbarComp() {
   return (
     <>
-      <div className="w-full min-h-[3.5rem] bg-blue-500 flex justify-between duration-300 items-center px-3 md:px-10">
+      <div className="w-full min-h-[3.5rem] bg-slate-500 flex justify-between duration-300 items-center px-3 md:px-10">
         <div className="text-3xl font-bold ">LOGO</div>
         <div className="text-center relative duration-300">
           <ul className="w-[40vw] text-lg text-slate-50 grow hidden duration-100 md:inline-flex justify-around">
@@ -52,4 +52,5 @@ export default function NavbarComp() {
       </div>
     </>
   );
+
 }
